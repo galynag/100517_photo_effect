@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.test {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin: 30px auto;
+
+}
+.test div {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img1 {
+    background: url("img1.png");
+}
+.img2 {
+    background: url("img2.png");
+}
